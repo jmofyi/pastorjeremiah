@@ -1,0 +1,10 @@
+<h5>Get New Articles In Your Inbox</h5>
+<form action="https://buttondown.email/api/emails/embed-subscribe/{{ site.buttondown }}" method="post"
+    target="popupwindow" onsubmit="window.open('https://buttondown.email/{{ site.buttondown }}', 'popupwindow')"
+    class="embeddable-buttondown-form my-2 my-lg-0">
+    <div class="input-group my-3 mx-auto"> <input oninput="is_email()" class="form-control" type="email"
+            name="email" id="bd-email" placeholder="Email" aria-label="Email">
+        <div class="input-group-append"> <button disabled="" id="email_button"
+                class="btn btn-outline-dark" type="submit">Subscribe</button> </div>
+    </div>
+</form>

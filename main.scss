@@ -2,3 +2,9 @@
 ---
 
 @import "bootstrap";
+
+blockquote {
+    border-left: 4px solid $dark;
+    padding-left: 0.5em;
+    font-size: 22px;
+}

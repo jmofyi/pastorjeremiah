@@ -1,6 +1,7 @@
 # Site settings
 title: "Pastor Jeremiah"
-email: hey@pastorjeremiah.com
+email: contact@pastorjeremiah.com
+buttondown: pastorjeremiah
 description: > # this means to ignore newlines until "baseurl:"
   Applying the Bible to your life in practical ways.
 baseurl: "" # the subpath of your site, e.g. /blog/
