@@ -11,7 +11,7 @@ tags:
 - Jesus
 - vision
 - start
-date: 2019-02-22 14:33:00 -0500
+date: ''
 
 ---
 I’m a minister of the gospel. I’m a husband. I’m a father.
