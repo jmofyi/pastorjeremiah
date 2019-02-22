@@ -3,14 +3,7 @@ title: Starting a church is the adventure of a lifetime
 description: A little about me, and what God has called me to do.
 image: ''
 tags:
-- church
-- god
-- pastor
-- church
-- life
-- Jesus
-- vision
-- start
+- being called
 date: 2019-02-22 00:00:00 -0500
 
 ---
