@@ -4,7 +4,7 @@ description: The struggle doesn't have to be real
 image: ''
 tags:
 - success
-date: 2019-02-13 00:00:00 -0500
+date: 2019-02-06 00:00:00 -0500
 
 ---
 Why embrace struggle if you are more than a conqueror?
