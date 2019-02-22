@@ -5,7 +5,7 @@ image: ''
 tags:
 - being called
 date: 2019-02-20 00:00:00 -0500
-
+layout: post
 ---
 There are two sides of the coin in ministry, the spiritual and the practical. There is the spiritual side of ministry, such as prayer, preaching, evangelism, and more. But there also is a very practical side of ministry; the business side. Finances, payroll, budgeting, marketing, advertising, planning, all the normal things any business needs to consider.
 

@@ -5,7 +5,7 @@ image: ''
 tags:
 - being called
 date: 2019-02-22 00:00:00 -0500
-
+layout: post
 ---
 Before I go into a lot of details about starting a church, I want to tell you about me. I don’t want to tell you about me because I think I’m something special. In fact, by the time you are done reading this, you will realize just how ordinary I am.
 

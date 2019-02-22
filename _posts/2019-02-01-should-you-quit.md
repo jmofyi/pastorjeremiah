@@ -5,7 +5,7 @@ image: ''
 tags:
 - being called
 date: 2019-02-13 00:00:00 -0500
-
+layout: post
 ---
 The church had been going for about a month and a half. Our attendance was fluctuating from about five to fifteen people.
 

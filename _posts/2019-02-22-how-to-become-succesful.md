@@ -5,7 +5,7 @@ image: ''
 tags:
 - being called
 date: 2019-02-22 00:00:00 -0500
-
+layout: post
 ---
 You might feel God calling you to do something but you're not quite sure how to start. Maybe you just started a career or you're a 30-year veteran. It doesn’t really matter how long you’ve been with the company, you only have one life, you should live it to its fullest.
 

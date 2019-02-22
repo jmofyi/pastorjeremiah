@@ -5,7 +5,7 @@ image: ''
 tags:
 - being called
 date: 2019-01-07 00:00:00 -0500
-
+layout: post
 ---
 When my wife and I started the church, there were only a handful of people that showed up to our first service. For the first few months, we had people visit and check us out, some would stay and some would never come back.
 

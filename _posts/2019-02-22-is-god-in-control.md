@@ -5,7 +5,7 @@ image: ''
 tags:
 - God is good
 date: 2019-02-22 00:00:00 -0500
-
+layout: post
 ---
 Life is good. Life is bad. Either way, it is God because of God. Or is it the devil’s fault? Maybe it’s something I did?
 

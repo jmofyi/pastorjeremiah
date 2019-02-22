@@ -5,7 +5,7 @@ image: ''
 tags:
 - being called
 date: 2019-02-18 00:00:00 -0500
-
+layout: post
 ---
 I’m a minister of the gospel. I’m a husband. I’m a father.
 

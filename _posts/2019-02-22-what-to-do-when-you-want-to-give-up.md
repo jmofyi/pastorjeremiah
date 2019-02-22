@@ -5,7 +5,7 @@ image: ''
 tags:
 - being called
 date: 2019-02-22 00:00:00 -0500
-
+layout: post
 ---
 Let me share something real with you. Recently I preached a sermon that left me feeling like I don’t know how to preach. I felt like a failure. I’ll get to this in a moment, but first, let me share what led to this.
 
