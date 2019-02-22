@@ -1,5 +1,5 @@
 ---
-title: How to become succesful
+title: How to be succesful
 description: Don't wait to live your dream
 image: ''
 tags:
