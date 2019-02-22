@@ -4,7 +4,7 @@ description: How to persevere when times are tough.
 image: ''
 tags:
 - being called
-date: 2019-02-01 00:00:00 -0500
+date: 2019-02-13 00:00:00 -0500
 
 ---
 The church had been going for about a month and a half. Our attendance was fluctuating from about five to fifteen people.
