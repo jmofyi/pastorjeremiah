@@ -22,3 +22,5 @@ fields:
 - type: datetime
   name: date
   label: Date
+pages:
+- _posts/starting-a-church-is-the-adventure-of-a-lifetime.md
