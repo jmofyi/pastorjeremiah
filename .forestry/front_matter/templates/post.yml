@@ -25,7 +25,7 @@ fields:
   config:
     required: true
 pages:
-- _posts/should-you-quit.md
+- _posts/2019-02-01-should-you-quit.md
 - _posts/2019-02-22-motivation-for-success.md
 - _posts/how-to-become-succesful.md
 - _posts/is-god-in-control.md
