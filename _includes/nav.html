@@ -6,10 +6,8 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="{{ '/about' | absolute_url }}">About</a>
-            <a class="nav-item nav-link active" href="{{ '/articles' | absolute_url }}">Articles</a>
-            <a class="nav-item nav-link active" href="{{ '/newsletter' | absolute_url }}">Newsletter</a>
-            <a class="nav-item nav-link active" href="{{ '/contact' | absolute_url }}">Contact</a>
+            {% for page in site.data.pages %}<a class="nav-item nav-link active" href="{{ '/' | absolute_url }}{{ page.url }}">{{ page.title }}</a>{% endfor %}
+            <a class="nav-item nav-link active" href="mailto:contact@pastorjeremiah.com">Contact</a>
         </div>
     </div>
 </nav>

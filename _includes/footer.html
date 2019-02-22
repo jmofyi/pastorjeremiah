@@ -1,0 +1,22 @@
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center my-3">
+            <h5>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</h5>
+            {% for page in site.data.pages %}
+            <a class="text-dark mx-1 my-3" href="{{ '/' | absolute_url }}{{ page.url }}"><span>{{ page.title }}</span></a>
+            {% endfor %}
+            <a class="text-dark mx-1 my-3" href="mailto:contact@pastorjeremiah.com"><span>Contact</span></a>
+        </div>
+        <div class="col-md-6 text-center my-3">
+            <h5>Get New Articles In Your Inbox</h5>
+            <form action="https://buttondown.email/api/emails/embed-subscribe/pastorjeremiah" method="post"
+                target="popupwindow" onsubmit="window.open('https://buttondown.email/pastorjeremiah', 'popupwindow')"
+                class="embeddable-buttondown-form my-2 my-lg-0">
+                <div class="input-group my-3 mx-auto"> <input oninput="is_email()" class="form-control" type="email"
+                        name="email" id="bd-email" placeholder="Email" aria-label="Email">
+                    <div class="input-group-append"> <button disabled="" id="email_button"
+                            class="btn btn-outline-primary" type="submit">Let's Go ⚡</button> </div>
+            </form>
+        </div>
+    </div>
+</div>
