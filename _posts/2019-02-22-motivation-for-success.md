@@ -4,7 +4,7 @@ description: Consistency is power.
 image: ''
 tags:
 - success
-date: 2019-02-22 00:00:00 -0500
+date: 2019-02-16 00:00:00 -0500
 
 ---
 Consistency. It’s a huge element to being successful in anything that you do, but can be one of the biggest challenges to master.
