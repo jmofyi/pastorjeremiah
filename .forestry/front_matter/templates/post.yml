@@ -25,8 +25,8 @@ fields:
   config:
     required: true
 pages:
-- _posts/2019-02-13-how-to-stop-struggling.md
 - _posts/how-to-deal-with-negative-people.md
+- _posts/2019-02-13-how-to-stop-struggling.md
 - _posts/2019-02-01-should-you-quit.md
 - _posts/2019-02-22-motivation-for-success.md
 - _posts/how-to-become-succesful.md
