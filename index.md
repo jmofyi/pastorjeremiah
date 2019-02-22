@@ -1,6 +1,7 @@
 ---
 layout: index
 title: Pastor Jeremiah
+image: /images/pastor-jeremiah.jpg
 ---
 
 # Hi, I’m {{ site.title }}.

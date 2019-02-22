@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: /images/pastor-jeremiah.jpg
 ---
 
 ![Pastor Jeremiah]({{ '/images/pastor-jeremiah.jpg' | absolute_url }})

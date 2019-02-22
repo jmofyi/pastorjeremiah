@@ -2,6 +2,7 @@
 layout: post
 title: Older Test Post
 description: This is a test
+image: /images/pastor-jeremiah.jpg
 tags:
     - Faith
     - Healing
