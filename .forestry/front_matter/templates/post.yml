@@ -22,5 +22,7 @@ fields:
 - type: datetime
   name: date
   label: Date
+  config:
+    required: true
 pages:
 - _posts/2019-02-22-starting-a-church-is-the-adventure-of-a-lifetime.md
