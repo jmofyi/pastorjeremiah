@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Articles
-image: /images/pastor-jeremiah.jpg
 ---
 
 <h1>All Articles By Date</h1>
@@ -13,7 +12,7 @@ image: /images/pastor-jeremiah.jpg
     {% if forloop.first %}
     <h2 class="my-2" id="{{ this_year }}-ref">{{this_year}}</h2>
     {% endif %}
-    <a href="{{ post.url }}"><h5 class="d-inline">{{ post.title }}</h5></a> - <h5 class="d-inline">{{ post.date | date: "%-d %B"}}</h5><br>
+    <div class="my-2"><a href="{{ post.url }}"><h5 class="d-inline">{{ post.title }}</h5></a> - <h5 class="d-inline">{{ post.date | date: "%B %-d, %Y"}}</h5></div>
     {% if forloop.last %}
     {% else %}
         {% if this_year != next_year %}
