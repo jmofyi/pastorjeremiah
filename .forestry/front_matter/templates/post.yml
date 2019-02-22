@@ -25,6 +25,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/motivation-for-success.md
 - _posts/how-to-become-succesful.md
 - _posts/is-god-in-control.md
 - _posts/the-business-of-ministry.md
