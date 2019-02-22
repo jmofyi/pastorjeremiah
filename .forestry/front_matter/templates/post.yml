@@ -25,5 +25,6 @@ fields:
   config:
     required: true
 pages:
+- _posts/what-to-do-when-you-want-to-give-up.md
 - _posts/how-to-be-used-by-god.md
 - _posts/2019-02-22-starting-a-church-is-the-adventure-of-a-lifetime.md
