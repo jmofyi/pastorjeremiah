@@ -4,8 +4,6 @@ title: Pastor Jeremiah
 image: /images/pastor-jeremiah.jpg
 ---
 
-# Hi, I’m {{ site.title }}.
-
 I'm the pastor of [River Church](https://riverbrockport.com) in Brockport, NY, a husband, a father, and an avid big game hunter.
 
 My writing is focused on exposing the power contained in the Bible to make lasting and practical changes in people's lives. My writing is easy to understand, and always based on the word. It's not just my opinion.
