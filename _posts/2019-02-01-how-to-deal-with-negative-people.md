@@ -6,6 +6,7 @@ tags:
 - church
 date: 2019-02-01 00:00:00 -0500
 layout: post
+
 ---
 I learned from my mistake.
 
