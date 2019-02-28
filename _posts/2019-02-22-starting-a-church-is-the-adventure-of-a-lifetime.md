@@ -1,11 +1,12 @@
 ---
-title: Starting a church is the adventure of a lifetime
-description: A little about me, and what God has called me to do.
+title: STARTING A CHURCH IS THE ADVENTURE OF A LIFETIME
+description: a little about me and what God has called me to do
 image: ''
 tags:
 - being called
-date: 2019-02-18 00:00:00 -0500
+date: 2019-02-18 05:00:00 +0000
 layout: post
+
 ---
 I’m a minister of the gospel. I’m a husband. I’m a father.
 
