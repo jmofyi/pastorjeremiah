@@ -1,11 +1,12 @@
 ---
-title: How to start preaching.
+title: HOW TO START PREACHING
 description: Your mindset is important.
 image: ''
 tags:
 - being called
-date: 2019-01-28 00:00:00 -0500
+date: 2019-01-28 05:00:00 +0000
 layout: post
+
 ---
 When my wife and I started the church, there were only a handful of people that showed up to our first service. For the first few months, we had people visit and check us out, some would stay and some would never come back.
 
