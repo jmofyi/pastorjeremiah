@@ -1,11 +1,12 @@
 ---
-title: Motivation for success.
+title: MOTIVATION FOR SUCCESS
 description: Consistency is power.
 image: ''
 tags:
 - success
-date: 2019-02-18 00:00:00 -0500
+date: 2019-02-18 05:00:00 +0000
 layout: post
+
 ---
 Consistency. It’s a huge element to being successful in anything that you do, but can be one of the biggest challenges to master.
 
