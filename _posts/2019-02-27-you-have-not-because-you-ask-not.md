@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You have not because you ask not.
-description: Should we ask God for things?
+title: YOU HAVE NOT BECAUSE YOU ASK NOT
+description: should we ask God for things?
 image: ''
 tags:
 - Ask God
