@@ -1,11 +1,12 @@
 ---
-title: How to stop struggling
+title: HOW TO STOP STRUGGLING
 description: The struggle doesn't have to be real
 image: ''
 tags:
 - success
-date: 2019-02-06 00:00:00 -0500
+date: 2019-02-06 05:00:00 +0000
 layout: post
+
 ---
 Why embrace struggle if you are more than a conqueror?
 
