@@ -1,10 +1,10 @@
 ---
-title: How to deal with negative people
+title: HOW TO DEAL WITH NEGATIVE PEOPLE
 description: Not everybody is your friend.
 image: ''
 tags:
 - church
-date: 2019-02-01 00:00:00 -0500
+date: 2019-02-01 05:00:00 +0000
 layout: post
 
 ---
