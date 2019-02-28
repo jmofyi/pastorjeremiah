@@ -1,11 +1,12 @@
 ---
-title: Is God in control?
+title: IS GOD IN CONTROL?
 description: Many people believe God is sovereign, is He?
 image: ''
 tags:
 - God is good
-date: 2019-02-08 00:00:00 -0500
+date: 2019-02-08 05:00:00 +0000
 layout: post
+
 ---
 Life is good. Life is bad. Either way, it is God because of God. Or is it the devil’s fault? Maybe it’s something I did?
 
