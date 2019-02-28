@@ -1,11 +1,12 @@
 ---
-title: How to be used by God
-description: I'm just an average guy.
+title: HOW TO BE USED BY GOD
+description: I'm just an average guy
 image: ''
 tags:
 - being called
-date: 2019-01-30 00:00:00 -0500
+date: 2019-01-30 05:00:00 +0000
 layout: post
+
 ---
 Before I go into a lot of details about starting a church, I want to tell you about me. I don’t want to tell you about me because I think I’m something special. In fact, by the time you are done reading this, you will realize just how ordinary I am.
 
