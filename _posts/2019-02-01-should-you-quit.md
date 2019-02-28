@@ -1,11 +1,12 @@
 ---
 title: Should you quit?
-description: How to persevere when times are tough.
+description: HOW TO PERSEVERE WHEN TIMES ARE TOUGH
 image: ''
 tags:
 - being called
-date: 2019-02-13 00:00:00 -0500
+date: 2019-02-13 05:00:00 +0000
 layout: post
+
 ---
 The church had been going for about a month and a half. Our attendance was fluctuating from about five to fifteen people.
 
