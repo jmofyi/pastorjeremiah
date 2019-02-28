@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Is God good?
+title: IS GOD GOOD?
 description: How do we know whether God is good or bad?
 image: ''
 tags: []
-date: 2019-02-25 00:00:00 -0500
+date: 2019-02-25 05:00:00 +0000
 
 ---
 ## God is _always_ good and _only_ good. 
