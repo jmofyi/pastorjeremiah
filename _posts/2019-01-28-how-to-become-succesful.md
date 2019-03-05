@@ -1,6 +1,6 @@
 ---
-title: HOW TO BE SUCCESSFUL
-description: don't wait to live your dream
+title: How To Be Successful
+description: Don't wait to live your dream.
 image: ''
 tags:
 - being called

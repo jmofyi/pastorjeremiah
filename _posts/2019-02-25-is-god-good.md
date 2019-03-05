@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IS GOD GOOD?
+title: Is God Good?
 description: How do we know whether God is good or bad?
 image: ''
 tags: []

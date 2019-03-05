@@ -1,6 +1,6 @@
 ---
-title: HOW TO BE USED BY GOD
-description: I'm just an average guy
+title: How To Be Used By God
+description: I'm just an average guy.
 image: ''
 tags:
 - being called

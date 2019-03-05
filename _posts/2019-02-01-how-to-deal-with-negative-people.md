@@ -1,5 +1,5 @@
 ---
-title: HOW TO DEAL WITH NEGATIVE PEOPLE
+title: How To Deal With Negative People
 description: Not everybody is your friend.
 image: ''
 tags:

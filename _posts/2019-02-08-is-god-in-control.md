@@ -1,5 +1,5 @@
 ---
-title: IS GOD IN CONTROL?
+title: Is God In Control?
 description: Many people believe God is sovereign, is He?
 image: ''
 tags:

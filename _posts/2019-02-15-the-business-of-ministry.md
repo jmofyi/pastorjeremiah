@@ -1,5 +1,5 @@
 ---
-title: THE BUSINESS OF MINISTRY
+title: The Business Of Ministry
 description: How to conduct business in ministry.
 image: ''
 tags:

@@ -1,5 +1,5 @@
 ---
-title: WHAT TO DO WHEN YOU WANT TO GIVE UP
+title: What To Do When You Want To Give Up
 description: Keep pushing forward!
 image: ''
 tags:

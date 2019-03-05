@@ -1,5 +1,5 @@
 ---
-title: HOW TO STOP STRUGGLING
+title: How To Stop Struggling
 description: The struggle doesn't have to be real
 image: ''
 tags:

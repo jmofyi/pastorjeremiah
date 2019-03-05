@@ -1,5 +1,5 @@
 ---
-title: HOW TO START PREACHING
+title: How To Start Preaching
 description: Your mindset is important.
 image: ''
 tags:

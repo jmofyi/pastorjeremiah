@@ -1,6 +1,6 @@
 ---
-title: SHOULD YOU QUIT?
-description: how to persevere when times are tough
+title: Should You Quit?
+description: How to persevere when times are tough.
 image: ''
 tags:
 - being called

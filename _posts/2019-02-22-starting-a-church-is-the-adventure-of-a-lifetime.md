@@ -1,6 +1,6 @@
 ---
-title: STARTING A CHURCH IS THE ADVENTURE OF A LIFETIME
-description: a little about me and what God has called me to do
+title: Starting A Church Is The Adventure Of A Lifetime
+description: A little about me and what God has called me to do.
 image: ''
 tags:
 - being called

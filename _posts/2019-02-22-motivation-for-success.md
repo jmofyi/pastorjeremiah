@@ -1,5 +1,5 @@
 ---
-title: MOTIVATION FOR SUCCESS
+title: Motivation For Success
 description: Consistency is power.
 image: ''
 tags:

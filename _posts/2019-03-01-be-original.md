@@ -1,7 +1,7 @@
 ---
 layout: post
-title: BE ORIGINAL
-description: God has a unique plan for your life
+title: Be Original
+description: God has a unique plan for your life.
 image: ''
 tags: []
 date: 2019-03-01 00:00:00 -0500
