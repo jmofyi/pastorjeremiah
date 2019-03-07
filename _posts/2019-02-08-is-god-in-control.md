@@ -1,7 +1,7 @@
 ---
 title: Is God In Control?
 description: Many people believe God is sovereign, is He?
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - God is good
 date: 2019-02-08 05:00:00 +0000
