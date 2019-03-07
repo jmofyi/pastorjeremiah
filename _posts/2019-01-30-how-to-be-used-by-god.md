@@ -1,7 +1,7 @@
 ---
 title: How To Be Used By God
 description: I'm just an average guy.
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - being called
 date: 2019-01-30 05:00:00 +0000
