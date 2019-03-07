@@ -1,7 +1,7 @@
 ---
 title: How To Start Preaching
 description: Your mindset is important.
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - being called
 date: 2019-01-28 05:00:00 +0000
