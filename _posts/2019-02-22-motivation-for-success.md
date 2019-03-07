@@ -1,7 +1,7 @@
 ---
 title: Motivation For Success
 description: Consistency is power.
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - success
 date: 2019-02-18 05:00:00 +0000
