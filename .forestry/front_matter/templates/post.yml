@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -29,9 +28,6 @@ fields:
   label: Layout
   default: post
 pages:
-- _posts/bible-verses-about-discipleship.md
-- _posts/be-original.md
-- _posts/you-have-not-because-you-ask-not.md
 - _posts/2019-02-22-motivation-for-success.md
 - _posts/2019-02-22-starting-a-church-is-the-adventure-of-a-lifetime.md
 - _posts/2019-02-01-should-you-quit.md
