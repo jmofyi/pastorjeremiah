@@ -2,9 +2,9 @@
 layout: post
 title: Be Original
 description: God has a unique plan for your life.
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags: []
-date: 2019-03-01 00:00:00 -0500
+date: 2019-03-01 05:00:00 +0000
 
 ---
 # BE AN ORIGINAL
