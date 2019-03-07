@@ -1,7 +1,7 @@
 ---
 title: How To Deal With Negative People
 description: Not everybody is your friend.
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - church
 date: 2019-02-01 05:00:00 +0000
