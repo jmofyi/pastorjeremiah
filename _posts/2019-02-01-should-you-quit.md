@@ -1,7 +1,7 @@
 ---
 title: Should You Quit?
 description: How to persevere when times are tough.
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - being called
 date: 2019-02-13 05:00:00 +0000
