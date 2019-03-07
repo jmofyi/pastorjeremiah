@@ -2,10 +2,10 @@
 layout: post
 title: You Have Not Because You Ask Not
 description: Should we ask God for things?
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - Ask God
-date: 2019-02-27 00:00:00 -0500
+date: 2019-02-27 05:00:00 +0000
 
 ---
 ## You have not because you ask not.
