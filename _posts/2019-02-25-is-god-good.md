@@ -2,7 +2,7 @@
 layout: post
 title: Is God Good?
 description: How do we know whether God is good or bad?
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags: []
 date: 2019-02-25 05:00:00 +0000
 
