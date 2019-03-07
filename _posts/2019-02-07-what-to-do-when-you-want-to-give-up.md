@@ -1,7 +1,7 @@
 ---
 title: What To Do When You Want To Give Up
 description: Keep pushing forward!
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - being called
 date: 2019-02-07 05:00:00 +0000
