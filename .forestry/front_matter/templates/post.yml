@@ -15,6 +15,7 @@ fields:
 - type: file
   name: image
   label: Image
+  default: "/uploads/pastor-jeremiah.jpg"
 - type: tag_list
   name: tags
   label: Tags
