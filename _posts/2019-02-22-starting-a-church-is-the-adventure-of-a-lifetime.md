@@ -1,7 +1,7 @@
 ---
 title: Starting A Church Is The Adventure Of A Lifetime
 description: A little about me and what God has called me to do.
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - being called
 date: 2019-02-18 05:00:00 +0000
