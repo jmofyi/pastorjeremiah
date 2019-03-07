@@ -1,7 +1,7 @@
 ---
 title: The Business Of Ministry
 description: How to conduct business in ministry.
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - being called
 date: 2019-02-15 05:00:00 +0000
