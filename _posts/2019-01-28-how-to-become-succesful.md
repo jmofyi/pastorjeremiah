@@ -1,10 +1,10 @@
 ---
 title: How To Be Successful
 description: Don't wait to live your dream.
-image: ''
+image: "/uploads/pastor-jeremiah.jpg"
 tags:
 - being called
-date: 2019-01-25 00:00:00 -0500
+date: 2019-01-25 05:00:00 +0000
 layout: post
 
 ---
