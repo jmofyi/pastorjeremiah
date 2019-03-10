@@ -29,7 +29,12 @@ fields:
   label: Layout
   default: post
 - type: text
-- type: text
+  name: Test
+  label: test
+  description: TEST
+  config:
+    required: false
+  default: Hello whats up
 pages:
 - _posts/t.html
 - _posts/the-violent-take-it-by-force.html
