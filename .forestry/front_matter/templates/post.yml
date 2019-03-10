@@ -36,7 +36,6 @@ fields:
     required: false
   default: Hello whats up
 pages:
-- _posts/the-violent-take-it-by-force.html
 - _posts/2019-02-22-motivation-for-success.md
 - _posts/2019-02-22-starting-a-church-is-the-adventure-of-a-lifetime.md
 - _posts/2019-02-01-should-you-quit.md
