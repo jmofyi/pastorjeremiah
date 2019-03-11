@@ -21,6 +21,9 @@ fields:
   name: image
   label: Image
   default: "/uploads/pastor-jeremiah.jpg"
+- type: tag_list
+  name: tags
+  label: Tags
 - type: text
   name: layout
   label: Layout
