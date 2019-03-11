@@ -1,6 +1,6 @@
 ---
 title: Pastor Jeremiah
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -13,7 +13,7 @@ buttondown: pastorjeremiah
 description: 'Applying the Bible to your life in practical ways.
 
 '
-baseurl: ''
+baseurl: 
 url: https://pastorjeremiah.com
 markdown: kramdown
 kramdown:
