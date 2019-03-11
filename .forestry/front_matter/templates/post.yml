@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Post
 hide_body: false
 display_field: title
@@ -32,3 +29,5 @@ fields:
   name: layout
   label: Layout
   default: post
+pages:
+- _posts/test-post.html
