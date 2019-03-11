@@ -1,13 +1,13 @@
 ---
 title: Starting A Church Is The Adventure Of A Lifetime
-description: A little about me and what God has called me to do.
-image: "/uploads/pastor-jeremiah.jpg"
+date: 2019-02-18 05:00:00 Z
 tags:
 - being called
-date: 2019-02-18 05:00:00 +0000
+description: A little about me and what God has called me to do.
+image: "/uploads/pastor-jeremiah.jpg"
 layout: post
-
 ---
+
 I’m a minister of the gospel. I’m a husband. I’m a father.
 
 #### My wife and I started a church and it has been the greatest adventure of my life.

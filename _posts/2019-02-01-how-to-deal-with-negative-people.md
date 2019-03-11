@@ -1,13 +1,13 @@
 ---
 title: How To Deal With Negative People
-description: Not everybody is your friend.
-image: "/uploads/pastor-jeremiah.jpg"
+date: 2019-02-01 05:00:00 Z
 tags:
 - church
-date: 2019-02-01 05:00:00 +0000
+description: Not everybody is your friend.
+image: "/uploads/pastor-jeremiah.jpg"
 layout: post
-
 ---
+
 I learned from my mistake.
 
 ### The only way a mistake can permanently harm you is if you don’t learn from it.

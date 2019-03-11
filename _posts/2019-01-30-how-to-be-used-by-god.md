@@ -1,13 +1,13 @@
 ---
 title: How To Be Used By God
-description: I'm just an average guy.
-image: "/uploads/pastor-jeremiah.jpg"
+date: 2019-01-30 05:00:00 Z
 tags:
 - being called
-date: 2019-01-30 05:00:00 +0000
+description: I'm just an average guy.
+image: "/uploads/pastor-jeremiah.jpg"
 layout: post
-
 ---
+
 Before I go into a lot of details about starting a church, I want to tell you about me. I don’t want to tell you about me because I think I’m something special. In fact, by the time you are done reading this, you will realize just how ordinary I am.
 
 God doesn’t need you to be a superstar, naturally speaking. He is able to take somebody that is ordinary and cause them to do something extraordinary. This has happened with people that God has used throughout the entire Bible.

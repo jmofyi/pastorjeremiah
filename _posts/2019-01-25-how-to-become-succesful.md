@@ -1,13 +1,13 @@
 ---
 title: How To Be Successful
-description: Don't wait to live your dream.
-image: "/uploads/pastor-jeremiah.jpg"
+date: 2019-01-25 05:00:00 Z
 tags:
 - being called
-date: 2019-01-25 05:00:00 +0000
+description: Don't wait to live your dream.
+image: "/uploads/pastor-jeremiah.jpg"
 layout: post
-
 ---
+
 You might feel God calling you to do something but you're not quite sure how to start. Maybe you just started a career or you're a 30-year veteran. It doesn’t really matter how long you’ve been with the company, you only have one life, you should live it to its fullest.
 
 Before starting the church I had been working at a company for about two years. It wasn’t a bad job. Yet I was totally unsatisfied working there because it _wasn’t what I was meant to be doing_.

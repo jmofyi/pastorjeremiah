@@ -1,13 +1,13 @@
 ---
-layout: post
 title: You Have Not Because You Ask Not
-description: Should we ask God for things?
-image: "/uploads/pastor-jeremiah.jpg"
+date: 2019-02-27 05:00:00 Z
 tags:
 - Ask God
-date: 2019-02-27 05:00:00 +0000
-
+layout: post
+description: Should we ask God for things?
+image: "/uploads/pastor-jeremiah.jpg"
 ---
+
 ## You have not because you ask not.
 
 This statement is found in James 4:2. It’s a loaded statement that should cause us to think: _what have we left on the table?_

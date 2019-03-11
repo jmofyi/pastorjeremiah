@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Bible Verses About Discipleship
+date: 2019-03-04 05:00:00 Z
+layout: post
 description: And What Discipleship Means
 image: "/uploads/pastor-jeremiah.jpg"
-tags: []
-date: 2019-03-04 05:00:00 +0000
-
 ---
+
 ### Bible Verses About Discipleship
 
 Matthew 28:18 And Jesus came and spoke to them, saying, “All authority has been given to Me in heaven and on earth. 19 Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 teaching them to observe all things that I have commanded you.

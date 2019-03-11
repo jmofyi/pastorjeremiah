@@ -1,7 +1,7 @@
 ---
-layout: index
 title: Pastor Jeremiah
-image: /images/pastor-jeremiah.jpg
+layout: index
+image: "/images/pastor-jeremiah.jpg"
 ---
 
 I'm the pastor of [River Church](https://riverbrockport.com) in Brockport, NY, a husband, a father, and an avid big game hunter.

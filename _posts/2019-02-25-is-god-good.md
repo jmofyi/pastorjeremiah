@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Is God Good?
+date: 2019-02-25 05:00:00 Z
+layout: post
 description: How do we know whether God is good or bad?
 image: "/uploads/pastor-jeremiah.jpg"
-tags: []
-date: 2019-02-25 05:00:00 +0000
-
 ---
+
 ## God is _always_ good and _only_ good. 
 
 A good starting point, and perhaps one of the most foundational principles of Christianity is the belief that God is good. That nothing bad can ever come from God.

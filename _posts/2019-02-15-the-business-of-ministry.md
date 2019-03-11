@@ -1,13 +1,13 @@
 ---
 title: The Business Of Ministry
-description: How to conduct business in ministry.
-image: "/uploads/pastor-jeremiah.jpg"
+date: 2019-02-15 05:00:00 Z
 tags:
 - being called
-date: 2019-02-15 05:00:00 +0000
+description: How to conduct business in ministry.
+image: "/uploads/pastor-jeremiah.jpg"
 layout: post
-
 ---
+
 There are two sides of the coin in ministry, the spiritual and the practical. There is the spiritual side of ministry, such as prayer, preaching, evangelism, and more. But there also is a very practical side of ministry; the business side. Finances, payroll, budgeting, marketing, advertising, planning, all the normal things any business needs to consider.
 
 The interesting thing about ministry is that if you talk to most ministers about ministry- they tend to only discuss the spiritual side of it. This is not all wrong; **a minister is to spend his time primarily- if not completely- on the spiritual side of things.**

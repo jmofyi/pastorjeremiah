@@ -1,13 +1,13 @@
 ---
 title: Should You Quit?
-description: How to persevere when times are tough.
-image: "/uploads/pastor-jeremiah.jpg"
+date: 2019-02-13 05:00:00 Z
 tags:
 - being called
-date: 2019-02-13 05:00:00 +0000
+description: How to persevere when times are tough.
+image: "/uploads/pastor-jeremiah.jpg"
 layout: post
-
 ---
+
 The church had been going for about a month and a half. Our attendance was fluctuating from about five to fifteen people.
 
 One week we would have some visitors come and I would be excited about the growth. The next week the attendance would drop back down again to a handful.

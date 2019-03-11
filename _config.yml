@@ -1,24 +1,28 @@
-# Site settings
-title: "Pastor Jeremiah"
+---
+title: Pastor Jeremiah
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: contact@pastorjeremiah.com
 buttondown: pastorjeremiah
-description: > # this means to ignore newlines until "baseurl:"
-  Applying the Bible to your life in practical ways.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://pastorjeremiah.com" # the base hostname & protocol for your site
+description: 'Applying the Bible to your life in practical ways.
 
-# Build settings
+'
+baseurl: ''
+url: https://pastorjeremiah.com
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 permalink: ":title/"
-
-# Minification
 sass:
   style: compressed
   sass_dir: _sass
-  
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
@@ -28,4 +32,4 @@ exclude:
 - Gemfile.lock
 - README.md
 - LICENCE
-- .gitignore
+- ".gitignore"
