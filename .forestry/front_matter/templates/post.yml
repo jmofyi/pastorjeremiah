@@ -29,5 +29,6 @@ fields:
   label: Layout
   default: post
 pages:
+- _posts/bible-verses-about-nature.md
 - _posts/bible-verses-about-rest.md
 - _posts/2019-03-06-the-violent-take-it-by-force.md
