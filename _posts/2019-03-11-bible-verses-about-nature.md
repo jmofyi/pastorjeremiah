@@ -21,14 +21,15 @@ Jeremiah 27:5 ‘I have made the earth, the man and the beast that are on the gr
 
 Isaiah 45:12 I have made the earth, and created man on it. I—My hands—stretched out the heavens, And all their host I have commanded.
 
-  
 Psalm 89:11 The heavens are Yours, the earth also is Yours; The world and all its fullness, You have founded them.
 
 Hebrews 11:3 By faith we understand that the worlds were framed by the word of God, so that the things which are seen were not made of things which are visible.
 
 ***
 
-I grew up where the wildlife outnumbered the human population, a place known as the middle of nowhere. My wife grew up in a suburb in Pennsylvania. Ever since we got married Julia tells me how much there is to do in the city, I always argue how little there is to do in the city and explain all the things to do in the country.
+#### I grew up where the wildlife outnumbered the human population, a place known as the middle of nowhere. 
+
+My wife grew up in a suburb in Pennsylvania. Ever since we got married, Julia tells me how much there is to do in the city, I always argue how little there is to do in the city and explain all the things to do in the country.
 
 Growing up I often wondered what life would be like to live “in town”. The towns I was referring to had about 2,000-5,000 people living in them. Then I went to Bible college in a suburb of Tampa Fl. I didn’t realize how small those towns were that I had imagined living in until I moved back from the city. Driving through a town of 2,000 people with no stoplight on main street didn’t feel like a town anymore, more like a gathering people that decided to live slightly closer together.
 
@@ -44,7 +45,7 @@ Today there are two primary thought processes on this subject:
 
 # Scientific Theory vs. Intelligent Design
 
-### The scientific theory of how earth and the universe was created is the big bang theory. 
+### The scientific theory of how earth and the universe was created is the big bang theory.
 
 You’d have to go back about 14 billion years when nothing existed to see it happen. The BBC describes it [here](http://www.bbc.com/future/story/20140812-how-was-the-universe-created).
 
@@ -80,7 +81,7 @@ Let me explain:
 
 > Hebrews 11:3 By faith we understand that the worlds were framed by the word of God, so that the things which are seen were not made of things which are visible.
 
-If you you look at that verse with the first few verses in Genesis: 
+If you you look at that verse with the first few verses in Genesis:
 
 > 1:1 In the beginning God created the heavens and the earth. 2 The earth was without form, and void; and darkness was on the face of the deep. And the Spirit of God was hovering over the face of the waters. 3 Then God said, “Let there be light”; and there was light. 4 And God saw the light, that it was good; and God divided the light from the darkness. 5 God called the light Day, and the darkness He called Night. So the evening and the morning were the first day. 6 Then God said, “Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.” 7 Thus God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament; and it was so.
 
