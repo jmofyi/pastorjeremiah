@@ -37,7 +37,7 @@ Colossians 3:23 And whatever you do, do it heartily, as to the Lord and not to m
 
 ***
 
-If you read all the scriptures above, then you can clearly see that God is a loves music.
+#### If you read all the scriptures above, then you can clearly see that God is a loves music.
 
 Not only singing, but music with instruments as well. Some Christians claim that we shouldn’t use electrical instruments because they aren’t mentioned in the Bible. Pants aren’t mentioned in the Bible either, should we go back to wearing a toga? _Don’t make ridiculous doctrines out of nothing._
 
@@ -59,17 +59,17 @@ Of course there are many positive attributes to listening to music. But what abo
 
 Some songs have a catchy beat, so you listen to it over and over. You might not care about the words - but whether you like it or not - those words are going into your soul.
 
-You might think I’m about to go off on secular music. I will, but... 
+You might think I’m about to go off on secular music. I will, but...
 
 ### First let me go off on Christian music
 
-There are many songs and musicians that fall under the “Christian” genre. Today you can’t just assume that because something is called "christian" that is good to listen to. Some of the most detrimental songs out there are Christian ones. 
+There are many songs and musicians that fall under the “Christian” genre. Today you can’t just assume that because something is called "christian" that is good to listen to. Some of the most detrimental songs out there are Christian ones.
 
 Why is that?
 
 If  you have christian radio on, or you heard a song from church - whether it’s your church - or one on youtube. Generally speaking - _we let our guard down_. Rightfully so - we shouldn’t be guarded against trusted worship leaders.
 
-**Yet we shouldn’t be oblivious to what we are singing**. There are plenty of Christian songs out there from all genres that have enough doubt in them to put Thomas to shame. If you are singing songs that are full of doubt and negativity, how is that pleasing to God? 
+**Yet we shouldn’t be oblivious to what we are singing**. There are plenty of Christian songs out there from all genres that have enough doubt in them to put Thomas to shame. If you are singing songs that are full of doubt and negativity, how is that pleasing to God?
 
 ##### You need to know what you are singing - if the lyrics are charged with faith and God's anointing, or something else.
 
@@ -89,7 +89,7 @@ Our songs that we sing are important. **They should be based in good biblical do
 
 Christian songs should inspire us to praise and worship Him. They should lead us into God’s presence, by causing us to become hungry for His Spirit. If the songs you listen to are called Christian, but you’re not getting those results, _maybe it’s time to put on a different song_.
 
-### If you are saved, and feel like listening to secular music is totally fine... 
+### If you are saved, and feel like listening to secular music is totally fine...
 
 Then scroll back to the top of this post and read these verses: Philippians 4:8, 1 Corinthians 15:33, Romans 12:2, Ephesians 5:10-11, Romans 8:8, Colossians 3:23
 
