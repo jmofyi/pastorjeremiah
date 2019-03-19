@@ -9,7 +9,7 @@ tags: []
 ---
 # How To Pick A Church
 
-My wife and I are pastors of a church that we started a few years ago, so it might appear self motivated to write about this topic. At the time that I’m writing this - our church doesn’t even know about this blog, and I’m not currently promoting it in our area. So chances are if you’re reading this right now - you’re not anywhere near Brockport NY.
+My wife and I are pastors of a church that we started a few years ago, so it might appear self serving to write about this topic. At the time that I’m writing this - our church doesn’t even know about this blog, and I’m not currently promoting it in our area. So chances are if you’re reading this right now - you’re not anywhere near Brockport NY.
 
 So why write it?
 
@@ -53,7 +53,7 @@ Church _isn’t about_ you being comfortable.
 
 #### Preach the Word:
 
-Did you know that the Bible says it is impossible to please God without faith? It also says that faith comes by hearing, and hearing by the word of God. If you aren’t going to a church where you are hearing the word of God preached, then your faith isn’t being built and it is a waste of time. 
+Did you know that the Bible says it is impossible to please God without faith? It also says that faith comes by hearing, and hearing by the word of God. If you aren’t going to a church where you are hearing the word of God preached, then your faith isn’t being built and it is a waste of time.
 
 **You need to hear the word of God preached so that your faith will be built, so that you will please God with your faith.**
 
@@ -129,6 +129,6 @@ Taking Jesus answer to that question into perspective will help you. The people 
 
 ***
 
-##### This isn’t a conclusive list. 
+##### This isn’t a conclusive list.
 
 Hopefully it gets you thinking in the right direction though. When you’re considering which church to go to, maybe _think beyond the bathroom quality_.
