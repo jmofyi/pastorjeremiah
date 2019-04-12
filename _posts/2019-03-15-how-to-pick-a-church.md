@@ -3,7 +3,7 @@ image: "/uploads/pastor-jeremiah.jpg"
 layout: post
 title: How To Pick A Church
 description: What's Important, And What's Not
-date: 2019-03-15 00:00:00 -0400
+date: 2019-04-04 00:00:00 -0400
 tags: []
 
 ---
