@@ -1,6 +1,6 @@
 ---
 title: How To Stop Struggling
-date: 2019-02-07 00:00:00 -0500
+date: 2019-02-11 00:00:00 -0500
 tags:
 - success
 description: The struggle doesn't have to be real
