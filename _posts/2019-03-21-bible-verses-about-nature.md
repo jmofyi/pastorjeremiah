@@ -27,7 +27,7 @@ Hebrews 11:3 By faith we understand that the worlds were framed by the word of G
 
 ***
 
-#### I grew up where the wildlife outnumbered the human population, a place known as the middle of nowhere. 
+#### I grew up where the wildlife outnumbered the human population, a place known as the middle of nowhere.
 
 My wife grew up in a suburb in Pennsylvania. Ever since we got married, Julia tells me how much there is to do in the city, I always argue how little there is to do in the city and explain all the things to do in the country.
 
