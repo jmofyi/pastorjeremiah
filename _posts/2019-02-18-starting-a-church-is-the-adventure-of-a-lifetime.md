@@ -1,6 +1,6 @@
 ---
 title: Starting A Church Is The Adventure Of A Lifetime
-date: 2019-02-04 00:00:00 -0500
+date: 2019-03-04 00:00:00 -0500
 tags:
 - being called
 description: A little about me and what God has called me to do.
