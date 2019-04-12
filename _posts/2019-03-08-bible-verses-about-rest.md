@@ -3,7 +3,7 @@ image: "/uploads/pastor-jeremiah.jpg"
 layout: post
 title: Bible Verses About Rest
 description: And What They Mean
-date: 2019-03-08 00:00:00 -0500
+date: 2019-03-18 00:00:00 -0400
 tags: []
 
 ---
