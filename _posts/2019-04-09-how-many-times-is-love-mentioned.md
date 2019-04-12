@@ -3,7 +3,7 @@ image: "/uploads/pastor-jeremiah.jpg"
 layout: post
 title: How Many Times Is Love Mentioned?
 description: Find Out Why Love Is So Important
-date: 2019-04-09 00:00:00 -0400
+date: 2019-04-08 00:00:00 -0400
 tags: []
 
 ---
