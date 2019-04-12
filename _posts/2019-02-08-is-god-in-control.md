@@ -1,13 +1,13 @@
 ---
 title: Is God In Control?
-date: 2019-02-08 05:00:00 Z
+date: 2019-02-18 00:00:00 -0500
 tags:
 - God is good
 description: Many people believe God is sovereign, is He?
 image: "/uploads/pastor-jeremiah.jpg"
 layout: post
----
 
+---
 Life is good. Life is bad. Either way, it is God because of God. Or is it the devil’s fault? Maybe it’s something I did?
 
 Many people don’t know why they are experiencing the quality of life that they have. When things are good- they are happy with God. When life takes a turn for the worse, they get mad at God and blame him. After all, “the Lord gives and the Lord takes away.”
