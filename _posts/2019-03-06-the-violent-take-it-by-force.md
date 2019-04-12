@@ -3,7 +3,7 @@ image: "/uploads/pastor-jeremiah.jpg"
 layout: post
 title: The Violent Take It By Force
 description: the kingdom of heaven suffers violence and the violent take it by force
-date: 2019-03-06 00:00:00 -0500
+date: 2019-03-11 00:00:00 -0400
 tags: []
 
 ---
