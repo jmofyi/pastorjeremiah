@@ -3,7 +3,7 @@ image: "/uploads/pastor-jeremiah.jpg"
 layout: post
 title: Bible Verses About Music
 description: And What They Mean
-date: 2019-03-13 00:00:00 -0400
+date: 2019-03-21 00:00:00 -0400
 tags: []
 
 ---
