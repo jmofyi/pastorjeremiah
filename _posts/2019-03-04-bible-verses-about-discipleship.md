@@ -1,6 +1,6 @@
 ---
 title: Bible Verses About Discipleship
-date: 2019-03-04 00:00:00 -0500
+date: 2019-03-25 00:00:00 -0400
 layout: post
 description: And What Discipleship Means
 image: "/uploads/pastor-jeremiah.jpg"
