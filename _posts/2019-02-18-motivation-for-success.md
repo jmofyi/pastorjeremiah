@@ -1,6 +1,6 @@
 ---
 title: Motivation For Success
-date: 2019-02-28 00:00:00 -0500
+date: 2019-03-04 00:00:00 -0500
 tags:
 - success
 description: Consistency is power.
