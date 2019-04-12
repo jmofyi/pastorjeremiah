@@ -1,11 +1,11 @@
 ---
 title: Be Original
-date: 2019-03-01 05:00:00 Z
+date: 2019-03-07 00:00:00 -0500
 layout: post
 description: God has a unique plan for your life.
 image: "/uploads/pastor-jeremiah.jpg"
----
 
+---
 # BE AN ORIGINAL
 
 I am a pastor, and in my line of work I see a lot other people that are trying to be somebody or something that they are not. Especially others that are in the same field of work as me.
