@@ -1,13 +1,13 @@
 ---
 title: How To Start Preaching
-date: 2019-01-28 05:00:00 Z
+date: 2019-01-31 00:00:00 -0500
 tags:
 - being called
 description: Your mindset is important.
 image: "/uploads/pastor-jeremiah.jpg"
 layout: post
----
 
+---
 When my wife and I started the church, there were only a handful of people that showed up to our first service. For the first few months, we had people visit and check us out, some would stay and some would never come back.
 
 In the beginning months, sometimes we had fewer people attend our Sunday services than we had at our very first service.
