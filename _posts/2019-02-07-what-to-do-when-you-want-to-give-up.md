@@ -1,13 +1,13 @@
 ---
 title: What To Do When You Want To Give Up
-date: 2019-02-07 05:00:00 Z
+date: 2019-02-14 00:00:00 -0500
 tags:
 - being called
 description: Keep pushing forward!
 image: "/uploads/pastor-jeremiah.jpg"
 layout: post
----
 
+---
 Let me share something real with you. Recently I preached a sermon that left me feeling like I don’t know how to preach. I felt like a failure. I’ll get to this in a moment, but first, let me share what led to this.
 
 We just had a weekend revival at our church that was incredible. We had 43 people attend the first service on Friday night. Though this is an insignificant amount of people to many churches, it’s not to ours.
