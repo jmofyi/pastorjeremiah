@@ -1,6 +1,6 @@
 ---
 title: Be Original
-date: 2019-03-07 00:00:00 -0500
+date: 2019-03-14 00:00:00 -0400
 layout: post
 description: God has a unique plan for your life.
 image: "/uploads/pastor-jeremiah.jpg"
