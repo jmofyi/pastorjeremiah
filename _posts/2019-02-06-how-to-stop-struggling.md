@@ -1,13 +1,13 @@
 ---
 title: How To Stop Struggling
-date: 2019-02-06 05:00:00 Z
+date: 2019-02-07 00:00:00 -0500
 tags:
 - success
 description: The struggle doesn't have to be real
 image: "/uploads/pastor-jeremiah.jpg"
 layout: post
----
 
+---
 Why embrace struggle if you are more than a conqueror?
 
 Tough situations come to everybody, and I am no stranger to them. You can look at the lives of Jesus and the apostles in the early church and see that they faced their share of trials as well.
