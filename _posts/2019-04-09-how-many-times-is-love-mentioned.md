@@ -112,7 +112,7 @@ Mark 12:31 tells us “You shall love your neighbor as yourself”
 
 Most people read this verse and see the aspect of loving others. However, according to this verse, you can’t love others more than you love yourself.
 
-I will go into detail on loving ourselves in my next post. In short: if we are to love ourselves we have to know our source, the one who created us and gives us our worth. We need to let Him mold us and shape us - let Him define who we are. As we see ourselves the way He sees us, we will be able to love ourselves.
+I wrote all about loving yourself [here](https://pastorjeremiah.com/love-your-neighbor-as-yourself "here"). In short: if we are to love ourselves we have to know our source, the one who created us and gives us our worth. We need to let Him mold us and shape us - let Him define who we are. As we see ourselves the way He sees us, we will be able to love ourselves.
 
 ## **Love for others**
 
@@ -124,7 +124,7 @@ This is where our true purpose comes from.
 
 It’s probably no surprise that one of my favorite places to eat is Chick-fil-A. I believe that it was because Truett Cathy loved people that he fried the gospel bird in such a way that it has become a world famous chicken sandwich. (I don’t have any basis for this, but that’s just the way I imagine it)
 
-**Love for others - inspired by the love of God - will cause you to make a difference**. 
+**Love for others - inspired by the love of God - will cause you to make a difference**.
 
 When you do something that is based in the love of God it is reflected in everything you do.
 
