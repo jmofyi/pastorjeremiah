@@ -4,7 +4,7 @@ layout: index
 image: "/images/pastor-jeremiah.jpg"
 
 ---
-I started [River Church](https://riverbrockport.com) in Brockport NY with my wife Julia.
+I started [River Church](https://riverbrockport.com) in Brockport NY with my wife Julia. 
 
 My writing is focused on exposing the power contained in the Bible to make lasting and practical changes in people's lives. My writing is easy to understand, and always based on the word. It's not just my opinion.
 
