@@ -20,15 +20,15 @@ The list covers just about every type of failure that people experience, but jus
 
 Because this list covers such an extensive list, I won’t add any more reasons to it, but I would like to expound on each of the reasons that he mentioned. We’ll begin with the second one on his list “Lack of a well-defined purpose in life”.
 
-I have noticed that many non-christian books, public speakers, financial advisers, and other influential successful have pulled ahead in life through biblical principles. Some of these people had no idea that the principles they lived by were based in God’s word.
+I have noticed that many non-christian books, public speakers, financial advisers, and other influential people have pulled ahead in life through biblical principles. Some of these people had no idea that the principles they lived by were based in God’s word.
 
-A sad fact, is that on the other side of the spectrum, there are plenty of God loving christians that are ignoring the same principles that have made unbelievers successful.
+A sad fact is that on the other side of the spectrum, there are plenty of God loving christians that are ignoring the same principles that have made unbelievers successful.
 
-Principles don’t care who puts them to work… the just work.
+Principles don’t care who puts them to work… they just work.
 
 This first reason deals with the principle of having a definite purpose. As Christians we get saved by faith in Jesus, we are to live by faith, walk by faith, and fight the good fight of faith. The only way to please God is through faith! Faith only works when it is directed in a specific area or direction.
 
-Nobody accidently believed in Jesus and got saved. Nobody just happened to get healed by faith. Everything that comes by faith happens because it was on purpose.
+Nobody accidentally believed in Jesus and got saved. Nobody just happened to get healed by faith. Everything that comes by faith happens because it was on purpose.
 
 James 1:5 If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him. 6 But let him ask in faith, with no doubting, **for he who doubts is like a wave of the sea driven and tossed by the wind**.
 
@@ -38,7 +38,7 @@ I’ve had men tell me about a business they are going to start. A few weeks go 
 
 People that live like this don’t know their purpose, and therefore can’t apply their faith to anything for long. They never gain traction or momentum in life because their direction is constantly changing.
 
-Next time you drive to the grocery store, turn your steering wheel from left to right, right to left, back and forth, as quick and sporadic as your can and tell me how long it takes you to get there, if you get there at all. That’s what people are doing with their lives when they don’t set a clear course.
+Next time you drive to the grocery store, turn your steering wheel from left to right, right to left, back and forth, as quick and sporadic as you can and tell me how long it takes you to get there, if you get there at all. That’s what people are doing with their lives when they don’t set a clear course.
 
 Anything that you do in faith is definite, it’s specific, it’s on purpose.
 
