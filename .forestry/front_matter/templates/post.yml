@@ -29,7 +29,8 @@ fields:
   label: Layout
   default: post
 pages:
-- _posts/criminals-in-the-kingdom.md
+- _posts/what-are-you-doing.md
 - _posts/the-law-of-faith.md
-- _posts/2019-04-11-love-your-neighbor-as-yourself.md
 - _posts/2019-03-06-the-violent-take-it-by-force.md
+- _posts/criminals-in-the-kingdom.md
+- _posts/2019-04-11-love-your-neighbor-as-yourself.md
