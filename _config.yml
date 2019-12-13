@@ -10,9 +10,7 @@ collections:
     output: true
 email: contact@pastorjeremiah.com
 buttondown: pastorjeremiah
-description: 'Applying the Bible to your life in practical ways.
-
-'
+description: 'Applying the Bible to your life in practical ways.'
 baseurl: 
 url: https://pastorjeremiah.com
 markdown: kramdown
