@@ -1,7 +1,7 @@
 ---
 image: "/uploads/pastor-jeremiah.jpg"
 layout: post
-title: Prosperity through the Bible Genesis 1
+title: Genesis 1 Create Your Prosperity
 description: 'Genesis to Revelation: A Study on Godly Prosperity'
 date: 2019-12-10 00:00:00 -0500
 tags: []
