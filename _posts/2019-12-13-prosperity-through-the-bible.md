@@ -7,8 +7,6 @@ date: 2019-12-13 11:00:00 -0500
 tags: []
 
 ---
-Prosperity through the Bible. Genesis to revelation.
-
 Genesis 4: (NIV 1984 edition)
 
 > 1 Adam lay with his wife Eve, and she became pregnant and gave birth to Cain. She said, "With the help of the Lord I have brought forth a man."
@@ -109,7 +107,7 @@ How about when we worship the Lord: what kind of an offering are you bringing?
 
 Sometimes when I see people in worship - I think to myself that i’ve seen more emotion on a tree stump.
 
-If you look around during praise and worship and see some tree stumps (a person standing there with no emotion on their face, hands in their pockets, or just sitting their waiting for it to end) - it shows that they don’t love the Lord like they should. 
+If you look around during praise and worship and see some tree stumps (a person standing there with no emotion on their face, hands in their pockets, or just sitting their waiting for it to end) - it shows that they don’t love the Lord like they should.
 
 Abel brought the best he had - he brought an offering of faith.
 
@@ -147,6 +145,6 @@ You might think - how can you say Abel had God’s favor when he was murdered?
 
 Cain lived out the rest of his existence with a curse on His life
 
-The offering that you bring to God is a reflection of your heart towards Him (Matthew 6:21). 
+The offering that you bring to God is a reflection of your heart towards Him (Matthew 6:21).
 
 God wants you to live in abundance and prosperity, but more importantly He wants your heart. If you can't pass the money test - the test that show's that He has your heart, and not the stuff that He gives you, you'll never experience _His_ prosperity.
