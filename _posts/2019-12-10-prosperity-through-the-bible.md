@@ -11,7 +11,7 @@ Genesis 1:
 
 > 1 In the beginning God created the heavens and the earth.
 
-Everything was created by God. It's all His stuff. It can be a big deal for people to tithe, or to give offerings above the tithe, but considering the fact that He created _everything_, it shouldn't be a problem.
+Everything was created by God. It's all His stuff. It can be a big deal for people to tithe, or to give offerings above the tithe, but considering the fact that He created _everything_, it shouldn't be a problem. 
 
 If somebody gave me a house, a car, clothes, food, and everything else that I own, I would want to give back to that person. I would want to bless them, and repay them for their kindness to me.
 
