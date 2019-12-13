@@ -7,8 +7,6 @@ date: 2019-12-10 00:00:00 -0500
 tags: []
 
 ---
-I'm just writing about scriptures from the Bible start to finish - Genesis to Revelation on the subject of prosperity. I'm pretty much doing this for myself. I like to do these kind of studies for a variety of subjects. I figured I'd put them on my website so that anybody can read them. I'm not trying to convince you of anything - like I said, I'm writing for me. (In the content below when I say "you" that's just the fictional person that I'm having this dialogue with to get my thoughts down)
-
 Genesis 1:
 
 > 1 In the beginning God created the heavens and the earth.
@@ -51,17 +49,17 @@ I think middle class Americans that are against the idea of prosperity is ungodl
 
 Heating, air conditioning, indoor plumbing (toilets in your house), a car to drive, an apartment or house to live in - even modestly furnished according to American standards, electricity, internet, clean reliable water. These are things that most of us take for granted - that many people in poor nations will never have. I know this from traveling to Haiti.
 
-So just by having those things - you're considered wealthy to many people in the world. 
+So just by having those things - you're considered wealthy to many people in the world.
 
 Prosperity is a lot about perspective.
 
-To a multimillionaire - the average middle class living standards might seem poor. 
+To a multimillionaire - the average middle class living standards might seem poor.
 
 So who is to say when somebody is actually prosperous?
 
 To the old multimillionaire that has no wife or children, perhaps a young family with wonderful children might seem prosperous. Perspective is different for everyone.
 
-I want everyone to prosper (3 john 2), and for you that might mean something a little different than for me. I don't think we should begrudge anybody their desire to prosper. 
+I want everyone to prosper (3 john 2), and for you that might mean something a little different than for me. I don't think we should begrudge anybody their desire to prosper.
 
 You will have a really hard time creating prosperity, unless you can learn to see yourself prospering - and speaking prosperity.
 
@@ -79,9 +77,9 @@ We are acting like God when we are creating our world around us with our words. 
 
 God loves producers! _And_ _has a lot of bad things to say about laziness_.
 
-Jesus gave many illustrations of being fruitful - producing. (Luke 6:46-49, Luke 8:5-8, Luke 19:12–19:27). 
+Jesus gave many illustrations of being fruitful - producing. (Luke 6:46-49, Luke 8:5-8, Luke 19:12–19:27).
 
-What are you producing? What fruit is all around you? 
+What are you producing? What fruit is all around you?
 
 I'm not talking about trials that may come your way from time to time. Those will come, but as you fight the good fight of faith - you will be victorious over them.
 
