@@ -7,8 +7,6 @@ date: 2019-12-11 12:00:00 -0500
 tags: []
 
 ---
-I’m just writing about scriptures from the Bible start to finish - Genesis to Revelation on the subject of prosperity. I’m pretty much doing this for myself. I like to do this kind of study on a variety of subjects. I figured I’d put them on my website so that anybody can read them. 
-
 Genesis 2:
 
 > 8 The Lord God planted a garden eastward in Eden, and there He put the man whom He had formed. 9 And out of the ground the Lord God made every tree grow that is pleasant to the sight and good for food. The tree of life was also in the midst of the garden, and the tree of the knowledge of good and evil.
@@ -31,7 +29,7 @@ To some extent we can experience that now. We have the Holy Spirit living in us 
 
 The difference is that now we have to do all that by fighting the good fight of faith. When Jesus returns for His bride - the church - we will no longer have to fight to stay in faith. We won't have to strive against the flesh (senses) or carnal nature, we won't have to believe God for healing, divine health, or financial prosperity. We'll simply live in it and with it.
 
-That's great for _then_, what about _now?_ 
+That's great for _then_, what about _now?_
 
 We're as close to the completion of God's plan as we can get. Hebrews 8:6 tells us that we are in a better covenant that is established on better promises. This better covenant is in contrast to the old covenant (testament).
 
@@ -39,7 +37,7 @@ Yet even under the old covenant - we'll see as we go through it that when God's 
 
 If under the older (worse/lesser) covenant the people of God walked in financial prosperity (among many other blessings) then how much more should we walk in it.
 
-This doesn't go contrary to God's plan. Religion teaches that God's plan is for us to stay humble. For some reason "humility" has to do with being financially poor. Yet that is moving in the opposite direction of what God is trying to do. 
+This doesn't go contrary to God's plan. Religion teaches that God's plan is for us to stay humble. For some reason "humility" has to do with being financially poor. Yet that is moving in the opposite direction of what God is trying to do.
 
 Remember God's plan is to bring us back to the place where we can freely dwell in His presence and to be sustained completely by Him. We shouldn't lack any good thing! (Psalm 34:10, Matthew 6:25-33)
 
