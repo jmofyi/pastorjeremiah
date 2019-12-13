@@ -9,7 +9,7 @@ tags: []
 ---
 Genesis 2:
 
-> 8 The Lord God planted a garden eastward in Eden, and there He put the man whom He had formed. 9 And out of the ground the Lord God made every tree grow that is pleasant to the sight and good for food. The tree of life was also in the midst of the garden, and the tree of the knowledge of good and evil.
+> 8 The Lord God planted a garden eastward in Eden, and there He put the man whom He had formed. 9 And out of the ground the Lord God made every tree grow that is pleasant to the sight and good for food. The tree of life was also in the midst of the garden, and the tree of the knowledge of good and evil. 
 
 The garden of Eden - also known as the Garden of God. This was a place where God and man were able to walk together (see Gen. 3:8). This place was where man could freely be in God's presence. The intended environment for man to live in by its creator - is in the presence of God.
 
