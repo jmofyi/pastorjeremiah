@@ -1,8 +1,8 @@
 ---
 image: "/uploads/pastor-jeremiah.jpg"
 layout: post
-title: Prosperity through the Bible
-description: Genesis 2
+title: 'Prosperity through the Bible: Genesis 2'
+description: 'Genesis to Revelation: A Study on Godly Prosperity'
 date: 2019-12-11 12:00:00 -0500
 tags: []
 
