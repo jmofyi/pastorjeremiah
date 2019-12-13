@@ -1,7 +1,7 @@
 ---
 image: "/uploads/pastor-jeremiah.jpg"
 layout: post
-title: Prosperity through the Bible Genesis 4
+title: Genesis 4 An Offering Of Faith
 description: 'Genesis to Revelation: A Study on Godly Prosperity'
 date: 2019-12-13 11:00:00 -0500
 tags: []
