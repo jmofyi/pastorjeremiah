@@ -3,55 +3,14 @@ title: Biblical Affirmations
 layout: optin
 description: Get access to the PDF.
 image: "/images/pastor-jeremiah.jpg"
+redirect: "uploads/affirmations.pdf"
 ---
-
-<link rel="stylesheet" href="https://emailoctopus.com/bundles/emailoctopuslist/css/formEmbed.css">
 
 <div class="container">
     <div class="row mb-5">
         <div class="col">
-            <div class="w-100">
-                <p class="email-octopus-success-message"></p>
-                <p class="email-octopus-error-message"></p>
-                <form method="post"
-                    action="https://emailoctopus.com/lists/58e12d6f-8fd1-11ea-a3d0-06b4694bee2a/members/embedded/1.3s/add"
-                    class="email-octopus-form" data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6">
-                    <div class="email-octopus-form-row w-100">
-                        <label for="field_0">Email address</label>
-                        <input id="field_0" name="field_0" type="email" placeholder="name@example.com"
-                            class="form-control w-100" style="max-width: 100%;">
-                    </div>
-                    <div class="email-octopus-form-row-hp" aria-hidden="true">
-                        <!-- Do not remove this field, otherwise you risk bot sign-ups -->
-                        <input type="text" name="hp58e12d6f-8fd1-11ea-a3d0-06b4694bee2a" tabindex="-1"
-                            autocomplete="nope">
-                    </div>
-                    <input type="hidden" name="successRedirectUrl" value="{{ '/affirmations.pdf' | absolute_url }}">
-                    <button class="btn btn-block btn-primary" type="submit">Get Access</button>
-                </form>
-            </div>
+            <h5>Enter your email below</h5>
+            {% include signup.html %}
         </div>
     </div>
 </div>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.4/recaptcha.js"></script>
-<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.4/formEmbed.js"></script>
-
-<!-- <div class="container">
-    <div class="row mb-5">
-        <div class="col">
-            <form action="https://buttondown.email/api/emails/embed-subscribe/pastorjeremiah" method="post"
-                target="popupwindow" onsubmit="window.open('https://buttondown.email/pastorjeremiah', 'popupwindow')"
-                class="embeddable-buttondown-form">
-                <div>
-                    <label for="bd-email">Enter your email address 👇</label>
-                </div>
-                <div class="my-3">
-                    <input class="form-control w-100" type="email" name="email" id="bd-email">
-                </div>
-                <input type="hidden" value="1" name="embed"></input>
-                <input class="btn btn-block btn-primary" type="submit" value="Get Access"></input>
-            </form>
-        </div>
-    </div>
-</div> -->

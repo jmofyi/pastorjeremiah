@@ -2,7 +2,6 @@
 title: Pastor Jeremiah
 layout: index
 image: "/images/pastor-jeremiah.jpg"
-
 ---
 I started [River Church](https://riverbrockport.com) in Brockport NY with my wife Julia. 
 
